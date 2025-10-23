@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ClearMind](https://github.com/devidutta-07/ClearMind)
 
-- 🌱 I’m currently learning **PowerBI ,**
+- 🌱 I’m currently learning **PowerBI , AI , Agentic AI**
 
 - 👯 I’m looking to collaborate on [ClearMind](https://github.com/devidutta-07/ClearMind)
 
