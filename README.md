@@ -21,7 +21,7 @@
 - 🤝 Looking for contributors & reviewers for **ClearMind** (AI-first architecture, scalable design)
 
 - 👨‍💻 All of my projects are available at  
-  👉 https://my-portfolio-three-jet-43.vercel.app/
+  👉 https://https://devidutta.vercel.app/
 
 - 📫 How to reach me: **deviduttame32@gmail.com**
 
